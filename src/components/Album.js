@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React, { Component } from 'react';
 import albumData from './../data/albums';
 import PlayerBar from './PlayerBar';
@@ -174,14 +173,6 @@ class Album extends Component {
     );
   }
 }
-=======
-import React from 'react';
 
-const Album = () => (
-  <section className="album">
-    Album will go here
-  </section>
-) ;
->>>>>>> 766e09124d51a5600ce12484f04a5cdbfb95196f
 
 export default Album;
